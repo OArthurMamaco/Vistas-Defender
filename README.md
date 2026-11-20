@@ -1,0 +1,1 @@
+Vistas Defender is an experimental piece of software created by a Brazilian named Arthur. It is designed to protect a computer from malicious applications residing in the RAM. The project should NOT yet be used as a commercial product, as it still contains flaws that need to be fixed; furthermore, it does not yet provide proper protection for your computer.
