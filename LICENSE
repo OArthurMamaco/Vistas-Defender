@@ -1,79 +1,51 @@
-Vistas Defender
 Proprietary Software License
-
 Copyright © 2026 Arthur Carvalho Rodrigues da Silva.
 All rights reserved.
 
 1. OWNERSHIP
+Vistas Defender, including its source code, compiled binaries, libraries, documentation, graphical interfaces, and other original components, is proprietary software owned by Arthur Carvalho Rodrigues da Silva.
 
-Vistas Defender, including its source code, compiled binaries, libraries,
-documentation, graphical interfaces, and other original components, is
-proprietary software owned by Arthur Carvalho Rodrigues da Silva.
-
-This license does not transfer ownership of the software or its source code
-to any individual or organization.
+This license does not transfer ownership of the software or its source code to any individual or organization.
 
 2. SOURCE CODE
+The source code of Vistas Defender is not licensed for public redistribution, modification, publication, or the creation of derivative works, unless expressly authorized in writing by the copyright holder.
 
-The source code of Vistas Defender is not licensed for public redistribution,
-modification, publication, or creation of derivative works unless expressly
-authorized in writing by the copyright holder.
+Publicly available source code files, if any, do not grant any additional rights beyond those explicitly established by the copyright holder.
 
-Publicly available source-code archives, if any, do not grant additional
-rights beyond those explicitly stated by the copyright holder.
+3. SOFTWARE BINARIES
+Unless otherwise stated by the copyright holder, users may install and use officially distributed Vistas Defender binaries for their intended purposes.
 
-3. BINARY SOFTWARE
-
-Unless otherwise stated by the copyright holder, users may install and use
-officially distributed Vistas Defender binaries for their intended purpose.
-
-Redistribution of official binaries is permitted only when expressly
-authorized by the copyright holder or when specifically stated in the
-corresponding release.
+Redistribution of official binaries is permitted only when expressly authorized by the copyright holder or when specifically indicated in the respective version (release).
 
 4. MODIFICATION AND DERIVATIVE WORKS
-
-Modification, decompilation, disassembly, redistribution of modified
-versions, or creation of derivative works based on Vistas Defender is not
-authorized by this license, except where such restrictions are prohibited
-by applicable law.
+Modification, decompilation, reverse engineering (disassembly), redistribution of modified versions, or the creation of derivative works based on Vistas Defender are not authorized under this license, except in cases where such restrictions are prohibited by applicable law.
 
 5. COMMERCIAL USE
+Commercial use, incorporation into commercial products, or redistribution as part of a commercial service requires prior written authorization from the copyright holder, unless otherwise provided by applicable law.
 
-Commercial use, incorporation into commercial products, or redistribution
-as part of a commercial service requires prior written authorization from
-the copyright holder, unless otherwise authorized by applicable law.
+6. TRADEMARKS AND VISUAL IDENTITY
+The names "Vistas Defender", "OArthurMamaco Security SHA", associated logos, product names, and other visual identity elements are not covered by this license.
 
-6. TRADEMARKS AND BRANDING
-
-The names "Vistas Defender", "OArthurMamaco Security SHA", associated logos,
-product names, and other branding are not granted under this license.
-
-This license does not grant permission to use the project's trademarks or
-branding in a way that suggests endorsement, affiliation, or official
-authorization.
+This license does not grant permission to use the project's trademarks or visual identity in any way that suggests endorsement, affiliation, or official authorization.
 
 7. THIRD-PARTY COMPONENTS
+Components distributed alongside Vistas Defender that are owned by third parties remain subject to their respective licenses and terms.
 
-Components distributed with Vistas Defender that are owned by third parties
-remain subject to their respective licenses and terms.
+Nothing in this license removes or invalidates rights granted under applicable third-party licenses.
 
-Nothing in this license removes or overrides rights granted by applicable
-third-party licenses.
+8. DISCLAIMER OF WARRANTY
+Vistas Defender is provided "AS IS", without warranties of any kind, to the maximum extent permitted by applicable law.
 
-8. NO WARRANTY
+However, the software is continuously updated through new releases containing bug fixes and code improvements. Nevertheless, a version will NOT receive security updates or antivirus improvements.
 
-Vistas Defender is provided "AS IS", without warranties of any kind, to the
-maximum extent permitted by applicable law.
+While a version is under support, the developer will review bug reports submitted by users for potential fixes in a future release.
 
-The copyright holder is not responsible for damages arising from the use
-or inability to use the software, except where liability cannot legally
-be excluded.
+NEVER install Vistas Defender from any source other than the official GitHub repository.
+
+The copyright holder shall not be liable for any damages arising from the use of, or inability to use, the software, except in cases where such liability cannot legally be excluded.
 
 9. RESERVATION OF RIGHTS
-
-All rights not expressly granted by this license are reserved by the
-copyright holder.
+All rights not expressly granted under this license are reserved by the copyright holder.
 
 Copyright © 2026 Arthur Carvalho Rodrigues da Silva.
 All rights reserved.
